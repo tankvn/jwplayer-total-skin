@@ -22,5 +22,13 @@
 <img height="377px" src="https://raw.githubusercontent.com/tankvn/jwplayer-total-skin/master/vastskin.jpeg" alt="VastSkin for JW Player" title="VastSkin for JW Player"/>
 
 
+### vSkin for JW Player 6
+<img height="377px" src="https://raw.githubusercontent.com/tankvn/jwplayer-total-skin/master/vskin.jpg" alt="vSkin for JW Player" title="vSkin for JW Player"/>
+
+
+### Mockup for JW Player 6
+<img height="377px" src="https://raw.githubusercontent.com/tankvn/jwplayer-total-skin/master/mockup.jpg" alt="Mockup for JW Player" title="Mockup for JW Player"/>
+
+
 ### Nice skin for  JW Player
 <img height="175px" src="https://one-onedesigns1.netdna-ssl.com/media/mediaelementjs-skin-large.jpg" alt="JW Player Skin" title="JW Player Skin"/>
