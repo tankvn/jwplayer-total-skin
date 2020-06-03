@@ -5,8 +5,13 @@
 ### Tube skin for JW Player
 <img height="377px" src="https://raw.githubusercontent.com/tankvn/jwplayer-total-skin/master/skin2.jpg" alt="JW Player Tube Skin" title="JW Player Tube Skin"/>
 
+
 ### Flat skin for JW Player
-<img height="377px" src="https://raw.githubusercontent.com/tankvn/jwplayer-total-skin/master/flat-jwplayer.jpg" alt="JW Player Flat Skin" title="JW Player Tube Skin"/>
+<img height="377px" src="https://raw.githubusercontent.com/tankvn/jwplayer-total-skin/master/flat-jwplayer.jpg" alt="JW Player Flat Skin" title="JW Player Flat Skin"/>
+
+
+### Thin skin for JW Player
+<img height="377px" src="https://raw.githubusercontent.com/tankvn/jwplayer-total-skin/master/thin.jpg" alt="JW Player Thin Skin" title="JW Player Thin Skin"/>
 
 
 ### Nice skin for  JW Player
