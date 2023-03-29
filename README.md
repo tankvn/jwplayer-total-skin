@@ -1,7 +1,5 @@
 # jwplayer-total-skin
 
-### Contact: tanvd357@gmail.com
-
 ### Tube skin for JW Player
 <img height="377px" src="https://raw.githubusercontent.com/tankvn/jwplayer-total-skin/master/skin2.jpg" alt="JW Player Tube Skin" title="JW Player Tube Skin"/>
 
