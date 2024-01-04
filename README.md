@@ -4,6 +4,9 @@
 
 <img height="377px" src="./netflix.jpg" alt="JW Player Netflix Skin" title="JW Player Netflix Skin"/>
 
+### [Vode Skin for JW Player](https://codecanyon.net/item/vode-skin-retina-for-jw-player/50020656)
+<img height="300px" src="https://codecanyon.img.customer.envatousercontent.com/files/482222122/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=ed3691cf7bd427e60230476f1a030cc0" alt="JW Player Vode Skin" title="JW Player Vode Skin"/>
+
 ### [Tube skin for JW Player](https://codecanyon.net/item/tube-skin-retina-for-jw7/18213167)
 <img height="377px" src="https://raw.githubusercontent.com/tankvn/jwplayer-total-skin/master/skin2.jpg" alt="JW Player Tube Skin" title="JW Player Tube Skin"/>
 
